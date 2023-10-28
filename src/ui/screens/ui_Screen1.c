@@ -16,7 +16,7 @@ void ui_Screen1_screen_init(void)
     lv_obj_set_x(ui_Label2, -246);
     lv_obj_set_y(ui_Label2, -149);
     lv_obj_set_align(ui_Label2, LV_ALIGN_CENTER);
-    lv_label_set_text(ui_Label2, "Hello World");
+    lv_label_set_text(ui_Label2, "Voy a ver si se puede ver");
 
     ui_Panel2 = lv_obj_create(ui_Screen1);
     lv_obj_set_width(ui_Panel2, 251);
