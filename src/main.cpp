@@ -9,6 +9,7 @@ void setup() {
 }
 
 void loop() {
+  // random comment
   lv_timer_handler();
 
   delay(5);
